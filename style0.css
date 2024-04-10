@@ -1,0 +1,31 @@
+img{
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    margin-top: 60px;
+}
+.logo{
+    text-align: center;
+}
+body{
+    background-image: url('./images/back_logo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+.play{
+    height: 80px;
+    width: 400px;
+    background-color: red;
+    margin-left: 640px;
+    margin-top: 200px;
+    padding-top: 20px;
+    border-radius: 100px;
+    border: 10px solid white;
+    font-size: 50px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
