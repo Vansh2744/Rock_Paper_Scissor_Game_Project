@@ -102,7 +102,7 @@ choices.forEach((choice) => {
     })
 });
 //--------------------------------------------------
-
+/*
 const img=document.querySelector('.logo');
 const play=document.querySelector('.play');
 setInterval(()=>{
@@ -124,3 +124,4 @@ setInterval(()=>{
     play.style.transform="scale(1)";
     play.style.transition="all 2s";
 },2000);
+*/
